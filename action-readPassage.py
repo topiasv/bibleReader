@@ -52,23 +52,37 @@ def readPassage(reference):
 	else:
 		return('This is not a valid reference')
 
+def changeBookName(book):
+	if book[:2] == "I " or book[:2] == "1 ":
+		return "first " + book[2:]
+	elif book[:3] == "II " or book[:3] == "2 ":
+		return "second " + book[3:]
+	elif book[:4] == "III " or book[:4] == "III ":
+		return "third " + book[4:]
+	else:
+		return book
+
 def readRandomPassage_callback(hermes, intentMessage):
 	with open('ESV.json') as data:
 		bible = json.load(data)
-	try:
+	if intentMessage.slots.book:
 		book = intentMessage.slots.book[0].slot_value.value.value
-	except:
+		print("User book selected" + str(book))
+	else:
 		books = bible.keys()
-		book = books[random.randint(0,len(books))]
-	try:
+		book = books[random.randint(0,len(books)-1)]
+	if intentMessage.slots.chapter:
 		chapter = intentMessage.slots.chapter[0].slot_value.value.value
-	except:
+		print("User chapter selected" + str(chapter))
+	else:
 		chapters = bible[book].keys()
-		chapter = chapters[random.randint(0,len(chapters))]
+		chapter = chapters[random.randint(0,len(chapters)-1)]
 	verses = bible[book][chapter].keys()
-	verse = verses[random.randint(0,len(verses))]
+	verse = verses[random.randint(0,len(verses)-1)]
 	
-	message = readPassage(book + " " + chapter + ":" + verse)
+	reference = "{} chapter {}, verse {}. ".format(changeBookName(str(book)), \
+		str(chapter),str(verse))
+	message = reference + readPassage(book + " " + chapter + ":" + verse)
 	hermes.publish_end_session(intentMessage.session_id, message)
 	
 def readPassage_callback(hermes, intentMessage):
