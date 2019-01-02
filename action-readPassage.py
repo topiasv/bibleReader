@@ -70,7 +70,7 @@ def readRandomPassage_callback(hermes, intentMessage):
 	
 	return book + " " + chapter + ":" + verse
 
-def readRandomPassage_callback:
+def readRandomPassage_callback(hermes, intentMessage):
 	message = readPassage(reference)
 	hermes.publish_end_session(intentMessage.session_id, message)
 	
