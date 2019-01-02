@@ -5,6 +5,7 @@ from hermes_python.hermes import Hermes
 from hermes_python.ontology import *
 import scriptures
 import json
+import random
 
 CONFIGURATION_ENCODING_FORMAT = "utf-8"
 CONFIG_INI = "config.ini"
@@ -51,6 +52,28 @@ def readPassage(reference):
 	else:
 		return('This is not a valid reference')
 
+def readRandomPassage_callback(hermes, intentMessage):
+	with open('ESV.json') as data:
+		bible = json.load(data)
+	try:
+		book = intentMessage.slots.book[0].slot_value.value.value
+	except:
+		books = bible.keys()
+		book = books[random.randint(0,len(books)]
+	try:
+		chapter = intentMessage.slots.chapter[0].slot_value.value.value
+	except:
+		chapters = bible[book].keys()
+		chapter = chapters[random.randint(0,len(chapters))]
+	verses = bible[book][chapter].keys()
+	verse = verses[random.randint(0,len(verses))]
+	
+	return book + " " + chapter + ":" + verse
+
+def readRandomPassage_callback:
+	message = readPassage(reference)
+	hermes.publish_end_session(intentMessage.session_id, message)
+	
 def readPassage_callback(hermes, intentMessage):
 	book = intentMessage.slots.book[0].slot_value.value.value
 	if book in ('Jude', '3 John', 'Philemon'):
@@ -90,4 +113,6 @@ def readPassage_callback(hermes, intentMessage):
 
 if __name__=="__main__":
 	with Hermes("localhost:1883") as h:
-		h.subscribe_intent("konjou:readPassage",readPassage_callback).start()
+		h.subscribe_intent("toxip:readPassage",readPassage_callback) \
+		 .subscribe_intent("toxip:readRandomPassage",readRandomPassage_callback) \
+		 .start()
