@@ -68,10 +68,7 @@ def readRandomPassage_callback(hermes, intentMessage):
 	verses = bible[book][chapter].keys()
 	verse = verses[random.randint(0,len(verses))]
 	
-	return book + " " + chapter + ":" + verse
-
-def readRandomPassage_callback(hermes, intentMessage):
-	message = readPassage(reference)
+	message = readPassage(book + " " + chapter + ":" + verse)
 	hermes.publish_end_session(intentMessage.session_id, message)
 	
 def readPassage_callback(hermes, intentMessage):
