@@ -59,7 +59,7 @@ def readRandomPassage_callback(hermes, intentMessage):
 		book = intentMessage.slots.book[0].slot_value.value.value
 	except:
 		books = bible.keys()
-		book = books[random.randint(0,len(books)]
+		book = books[random.randint(0,len(books))]
 	try:
 		chapter = intentMessage.slots.chapter[0].slot_value.value.value
 	except:
