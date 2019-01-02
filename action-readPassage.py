@@ -73,7 +73,7 @@ def readRandomPassage_callback(hermes, intentMessage):
 		book = books[random.randint(0,len(books)-1)]
 	if intentMessage.slots.chapter:
 		chapter = intentMessage.slots.chapter[0].slot_value.value.value
-		print("User chapter selected " + int(chapter))
+		print("User chapter selected " + str(int(chapter)))
 	else:
 		chapters = bible[book].keys()
 		chapter = chapters[random.randint(0,len(chapters)-1)]
