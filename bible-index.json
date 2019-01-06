@@ -1,0 +1,4096 @@
+{
+  "sections": {
+    "Bible": [
+      "Genesis", "Exodus", "Leviticus", "Numbers",
+      "Deuteronomy", "Joshua", "Judges", "Ruth",
+      "I Samuel", "II Samuel", "I Kings", "II Kings",
+      "1 Chronicles", "2 Chronicles", "Ezra", "Nehemiah",
+      "Esther", "Job", "Psalms", "Proverbs", "Ecclesiastes",
+      "Song of Solomon", "Isaiah", "Jeremiah", "Lamentations",
+      "Ezekiel", "Daniel", "Hosea", "Joel", "Amos", "Obadiah",
+      "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah",
+      "Haggai", "Zechariah", "Malachi", "Matthew", "Mark",
+      "Luke", "John", "Acts", "Romans", "I Corinthians",
+      "II Corinthians", "Galatians", "Ephesians",
+      "Philippians", "Colossians", "I Thessalonians",
+      "II Thessalonians", "I Timothy", "II Timothy",
+      "Titus", "Philemon", "Hebrews", "James",
+      "I Peter", "II Peter", "I John", "II John",
+      "III John", "Jude", "Revelation"
+    ],
+    "Old Testament": [
+      "Genesis", "Exodus", "Leviticus", "Numbers",
+      "Deuteronomy", "Joshua", "Judges", "Ruth",
+      "I Samuel", "II Samuel", "I Kings", "II Kings",
+      "1 Chronicles", "2 Chronicles", "Ezra", "Nehemiah",
+      "Esther", "Job", "Psalms", "Proverbs", "Ecclesiastes",
+      "Song of Solomon", "Isaiah", "Jeremiah", "Lamentations",
+      "Ezekiel", "Daniel", "Hosea", "Joel", "Amos", "Obadiah",
+      "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah",
+      "Haggai", "Zechariah", "Malachi"
+    ],
+    "Pentateuch": [
+      "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy"
+    ],
+    "History": [
+      "Joshua", "Judges", "Ruth",
+      "I Samuel", "II Samuel", "I Kings", "II Kings",
+      "1 Chronicles", "2 Chronicles", "Ezra", "Nehemiah",
+      "Esther"
+    ],
+    "Wisdom Books": [
+      "Job", "Psalms", "Proverbs", "Ecclesiastes", "Song of Solomon"
+    ],
+    "Prophets": [
+      "Isaiah", "Jeremiah", "Lamentations", "Ezekiel", "Daniel",
+      "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah",
+      "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah",
+      "Malachi"
+    ],
+    "Major Prophets": [
+      "Isaiah", "Jeremiah", "Lamentations", "Ezekiel", "Daniel"
+    ],
+    "Minor Prophets": [
+      "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah",
+      "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah",
+      "Malachi"
+    ],
+    "New Testament": [
+      "Matthew", "Mark", "Luke", "John", "Acts",
+      "Romans", "I Corinthians", "II Corinthians",
+      "Galatians", "Ephesians", "Philippians", "Colossians",
+      "I Thessalonians", "II Thessalonians", "I Timothy",
+      "II Timothy", "Titus", "Philemon", "Hebrews", "James",
+      "I Peter", "II Peter", "I John", "II John", "III John",
+      "Jude", "Revelation"
+    ],
+    "Gospels": [
+      "Matthew", "Mark", "Luke", "John"
+    ],
+    "Apostolic History": [
+      "Acts"
+    ],
+    "Epistles": [
+      "Romans", "I Corinthians", "II Corinthians",
+      "Galatians", "Ephesians", "Philippians", "Colossians",
+      "I Thessalonians", "II Thessalonians", "I Timothy",
+      "II Timothy", "Titus", "Philemon", "Hebrews", "James",
+      "I Peter", "II Peter", "I John", "II John", "III John",
+      "Jude"
+    ],
+    "Pauline Epistles": [
+      "Romans", "I Corinthians", "II Corinthians",
+      "Galatians", "Ephesians", "Philippians", "Colossians",
+      "I Thessalonians", "II Thessalonians", "I Timothy",
+      "II Timothy", "Titus", "Philemon", "Hebrews"
+    ],
+    "General Epistles": [
+      "James", "I Peter", "II Peter", "I John", "II John",
+      "III John", "Jude"
+    ],
+    "Apocalypse": [
+      "Revelation"
+    ]
+  },
+  "Genesis": {
+    "1": {
+      "length": 31
+    },
+    "2": {
+      "length": 25
+    },
+    "3": {
+      "length": 24
+    },
+    "4": {
+      "length": 26
+    },
+    "5": {
+      "length": 32
+    },
+    "6": {
+      "length": 22
+    },
+    "7": {
+      "length": 24
+    },
+    "8": {
+      "length": 22
+    },
+    "9": {
+      "length": 29
+    },
+    "10": {
+      "length": 32
+    },
+    "11": {
+      "length": 32
+    },
+    "12": {
+      "length": 20
+    },
+    "13": {
+      "length": 18
+    },
+    "14": {
+      "length": 24
+    },
+    "15": {
+      "length": 21
+    },
+    "16": {
+      "length": 16
+    },
+    "17": {
+      "length": 27
+    },
+    "18": {
+      "length": 33
+    },
+    "19": {
+      "length": 38
+    },
+    "20": {
+      "length": 18
+    },
+    "21": {
+      "length": 34
+    },
+    "22": {
+      "length": 24
+    },
+    "23": {
+      "length": 20
+    },
+    "24": {
+      "length": 67
+    },
+    "25": {
+      "length": 34
+    },
+    "26": {
+      "length": 35
+    },
+    "27": {
+      "length": 46
+    },
+    "28": {
+      "length": 22
+    },
+    "29": {
+      "length": 35
+    },
+    "30": {
+      "length": 43
+    },
+    "31": {
+      "length": 55
+    },
+    "32": {
+      "length": 32
+    },
+    "33": {
+      "length": 20
+    },
+    "34": {
+      "length": 31
+    },
+    "35": {
+      "length": 29
+    },
+    "36": {
+      "length": 43
+    },
+    "37": {
+      "length": 36
+    },
+    "38": {
+      "length": 30
+    },
+    "39": {
+      "length": 23
+    },
+    "40": {
+      "length": 23
+    },
+    "41": {
+      "length": 57
+    },
+    "42": {
+      "length": 38
+    },
+    "43": {
+      "length": 34
+    },
+    "44": {
+      "length": 34
+    },
+    "45": {
+      "length": 28
+    },
+    "46": {
+      "length": 34
+    },
+    "47": {
+      "length": 31
+    },
+    "48": {
+      "length": 22
+    },
+    "49": {
+      "length": 33
+    },
+    "50": {
+      "length": 26
+    },
+    "length": 50,
+    "index": 0,
+    "section": "Pentateuch",
+    "testament": "Old Testament"
+  },
+  "Exodus": {
+    "1": {
+      "length": 22
+    },
+    "2": {
+      "length": 25
+    },
+    "3": {
+      "length": 22
+    },
+    "4": {
+      "length": 31
+    },
+    "5": {
+      "length": 23
+    },
+    "6": {
+      "length": 30
+    },
+    "7": {
+      "length": 25
+    },
+    "8": {
+      "length": 32
+    },
+    "9": {
+      "length": 35
+    },
+    "10": {
+      "length": 29
+    },
+    "11": {
+      "length": 10
+    },
+    "12": {
+      "length": 51
+    },
+    "13": {
+      "length": 22
+    },
+    "14": {
+      "length": 31
+    },
+    "15": {
+      "length": 27
+    },
+    "16": {
+      "length": 36
+    },
+    "17": {
+      "length": 16
+    },
+    "18": {
+      "length": 27
+    },
+    "19": {
+      "length": 25
+    },
+    "20": {
+      "length": 26
+    },
+    "21": {
+      "length": 36
+    },
+    "22": {
+      "length": 31
+    },
+    "23": {
+      "length": 33
+    },
+    "24": {
+      "length": 18
+    },
+    "25": {
+      "length": 40
+    },
+    "26": {
+      "length": 37
+    },
+    "27": {
+      "length": 21
+    },
+    "28": {
+      "length": 43
+    },
+    "29": {
+      "length": 46
+    },
+    "30": {
+      "length": 38
+    },
+    "31": {
+      "length": 18
+    },
+    "32": {
+      "length": 35
+    },
+    "33": {
+      "length": 23
+    },
+    "34": {
+      "length": 35
+    },
+    "35": {
+      "length": 35
+    },
+    "36": {
+      "length": 38
+    },
+    "37": {
+      "length": 29
+    },
+    "38": {
+      "length": 31
+    },
+    "39": {
+      "length": 43
+    },
+    "40": {
+      "length": 38
+    },
+    "length": 40,
+    "index": 1,
+    "section": "Pentateuch",
+    "testament": "Old Testament"
+  },
+  "Leviticus": {
+    "1": {
+      "length": 17
+    },
+    "2": {
+      "length": 16
+    },
+    "3": {
+      "length": 17
+    },
+    "4": {
+      "length": 35
+    },
+    "5": {
+      "length": 19
+    },
+    "6": {
+      "length": 30
+    },
+    "7": {
+      "length": 38
+    },
+    "8": {
+      "length": 36
+    },
+    "9": {
+      "length": 24
+    },
+    "10": {
+      "length": 20
+    },
+    "11": {
+      "length": 47
+    },
+    "12": {
+      "length": 8
+    },
+    "13": {
+      "length": 59
+    },
+    "14": {
+      "length": 57
+    },
+    "15": {
+      "length": 33
+    },
+    "16": {
+      "length": 34
+    },
+    "17": {
+      "length": 16
+    },
+    "18": {
+      "length": 30
+    },
+    "19": {
+      "length": 37
+    },
+    "20": {
+      "length": 27
+    },
+    "21": {
+      "length": 24
+    },
+    "22": {
+      "length": 33
+    },
+    "23": {
+      "length": 44
+    },
+    "24": {
+      "length": 23
+    },
+    "25": {
+      "length": 55
+    },
+    "26": {
+      "length": 46
+    },
+    "27": {
+      "length": 34
+    },
+    "length": 27,
+    "index": 2,
+    "section": "Pentateuch",
+    "testament": "Old Testament"
+  },
+  "Numbers": {
+    "1": {
+      "length": 54
+    },
+    "2": {
+      "length": 34
+    },
+    "3": {
+      "length": 51
+    },
+    "4": {
+      "length": 49
+    },
+    "5": {
+      "length": 31
+    },
+    "6": {
+      "length": 27
+    },
+    "7": {
+      "length": 89
+    },
+    "8": {
+      "length": 26
+    },
+    "9": {
+      "length": 23
+    },
+    "10": {
+      "length": 36
+    },
+    "11": {
+      "length": 35
+    },
+    "12": {
+      "length": 16
+    },
+    "13": {
+      "length": 33
+    },
+    "14": {
+      "length": 45
+    },
+    "15": {
+      "length": 41
+    },
+    "16": {
+      "length": 50
+    },
+    "17": {
+      "length": 13
+    },
+    "18": {
+      "length": 32
+    },
+    "19": {
+      "length": 22
+    },
+    "20": {
+      "length": 29
+    },
+    "21": {
+      "length": 35
+    },
+    "22": {
+      "length": 41
+    },
+    "23": {
+      "length": 30
+    },
+    "24": {
+      "length": 25
+    },
+    "25": {
+      "length": 18
+    },
+    "26": {
+      "length": 65
+    },
+    "27": {
+      "length": 23
+    },
+    "28": {
+      "length": 31
+    },
+    "29": {
+      "length": 40
+    },
+    "30": {
+      "length": 16
+    },
+    "31": {
+      "length": 54
+    },
+    "32": {
+      "length": 42
+    },
+    "33": {
+      "length": 56
+    },
+    "34": {
+      "length": 29
+    },
+    "35": {
+      "length": 34
+    },
+    "36": {
+      "length": 13
+    },
+    "length": 36,
+    "index": 3,
+    "section": "Pentateuch",
+    "testament": "Old Testament"
+  },
+  "Deuteronomy": {
+    "1": {
+      "length": 46
+    },
+    "2": {
+      "length": 37
+    },
+    "3": {
+      "length": 29
+    },
+    "4": {
+      "length": 49
+    },
+    "5": {
+      "length": 33
+    },
+    "6": {
+      "length": 25
+    },
+    "7": {
+      "length": 26
+    },
+    "8": {
+      "length": 20
+    },
+    "9": {
+      "length": 29
+    },
+    "10": {
+      "length": 22
+    },
+    "11": {
+      "length": 32
+    },
+    "12": {
+      "length": 32
+    },
+    "13": {
+      "length": 18
+    },
+    "14": {
+      "length": 29
+    },
+    "15": {
+      "length": 23
+    },
+    "16": {
+      "length": 22
+    },
+    "17": {
+      "length": 20
+    },
+    "18": {
+      "length": 22
+    },
+    "19": {
+      "length": 21
+    },
+    "20": {
+      "length": 20
+    },
+    "21": {
+      "length": 23
+    },
+    "22": {
+      "length": 30
+    },
+    "23": {
+      "length": 25
+    },
+    "24": {
+      "length": 22
+    },
+    "25": {
+      "length": 19
+    },
+    "26": {
+      "length": 19
+    },
+    "27": {
+      "length": 26
+    },
+    "28": {
+      "length": 68
+    },
+    "29": {
+      "length": 29
+    },
+    "30": {
+      "length": 20
+    },
+    "31": {
+      "length": 30
+    },
+    "32": {
+      "length": 52
+    },
+    "33": {
+      "length": 29
+    },
+    "34": {
+      "length": 12
+    },
+    "length": 34,
+    "index": 4,
+    "section": "Pentateuch",
+    "testament": "Old Testament"
+  },
+  "Joshua": {
+    "1": {
+      "length": 18
+    },
+    "2": {
+      "length": 24
+    },
+    "3": {
+      "length": 17
+    },
+    "4": {
+      "length": 24
+    },
+    "5": {
+      "length": 15
+    },
+    "6": {
+      "length": 27
+    },
+    "7": {
+      "length": 26
+    },
+    "8": {
+      "length": 35
+    },
+    "9": {
+      "length": 27
+    },
+    "10": {
+      "length": 43
+    },
+    "11": {
+      "length": 23
+    },
+    "12": {
+      "length": 24
+    },
+    "13": {
+      "length": 33
+    },
+    "14": {
+      "length": 15
+    },
+    "15": {
+      "length": 63
+    },
+    "16": {
+      "length": 10
+    },
+    "17": {
+      "length": 18
+    },
+    "18": {
+      "length": 28
+    },
+    "19": {
+      "length": 51
+    },
+    "20": {
+      "length": 9
+    },
+    "21": {
+      "length": 45
+    },
+    "22": {
+      "length": 34
+    },
+    "23": {
+      "length": 16
+    },
+    "24": {
+      "length": 33
+    },
+    "length": 24,
+    "index": 5,
+    "section": "History",
+    "testament": "Old Testament"
+  },
+  "Judges": {
+    "1": {
+      "length": 36
+    },
+    "2": {
+      "length": 23
+    },
+    "3": {
+      "length": 31
+    },
+    "4": {
+      "length": 24
+    },
+    "5": {
+      "length": 31
+    },
+    "6": {
+      "length": 40
+    },
+    "7": {
+      "length": 25
+    },
+    "8": {
+      "length": 35
+    },
+    "9": {
+      "length": 57
+    },
+    "10": {
+      "length": 18
+    },
+    "11": {
+      "length": 40
+    },
+    "12": {
+      "length": 15
+    },
+    "13": {
+      "length": 25
+    },
+    "14": {
+      "length": 20
+    },
+    "15": {
+      "length": 20
+    },
+    "16": {
+      "length": 31
+    },
+    "17": {
+      "length": 13
+    },
+    "18": {
+      "length": 31
+    },
+    "19": {
+      "length": 30
+    },
+    "20": {
+      "length": 48
+    },
+    "21": {
+      "length": 25
+    },
+    "length": 21,
+    "index": 6,
+    "section": "History",
+    "testament": "Old Testament"
+  },
+  "Ruth": {
+    "1": {
+      "length": 22
+    },
+    "2": {
+      "length": 23
+    },
+    "3": {
+      "length": 18
+    },
+    "4": {
+      "length": 22
+    },
+    "index": 7,
+    "section": "History",
+    "length": 4,
+    "testament": "Old Testament"
+  },
+  "I Samuel": {
+    "1": {
+      "length": 28
+    },
+    "2": {
+      "length": 36
+    },
+    "3": {
+      "length": 21
+    },
+    "4": {
+      "length": 22
+    },
+    "5": {
+      "length": 12
+    },
+    "6": {
+      "length": 21
+    },
+    "7": {
+      "length": 17
+    },
+    "8": {
+      "length": 22
+    },
+    "9": {
+      "length": 27
+    },
+    "10": {
+      "length": 27
+    },
+    "11": {
+      "length": 15
+    },
+    "12": {
+      "length": 25
+    },
+    "13": {
+      "length": 23
+    },
+    "14": {
+      "length": 52
+    },
+    "15": {
+      "length": 35
+    },
+    "16": {
+      "length": 23
+    },
+    "17": {
+      "length": 58
+    },
+    "18": {
+      "length": 30
+    },
+    "19": {
+      "length": 24
+    },
+    "20": {
+      "length": 42
+    },
+    "21": {
+      "length": 15
+    },
+    "22": {
+      "length": 23
+    },
+    "23": {
+      "length": 29
+    },
+    "24": {
+      "length": 22
+    },
+    "25": {
+      "length": 44
+    },
+    "26": {
+      "length": 25
+    },
+    "27": {
+      "length": 12
+    },
+    "28": {
+      "length": 25
+    },
+    "29": {
+      "length": 11
+    },
+    "30": {
+      "length": 31
+    },
+    "31": {
+      "length": 13
+    },
+    "length": 31,
+    "index": 8,
+    "section": "History",
+    "testament": "Old Testament"
+  },
+  "II Samuel": {
+    "1": {
+      "length": 27
+    },
+    "2": {
+      "length": 32
+    },
+    "3": {
+      "length": 39
+    },
+    "4": {
+      "length": 12
+    },
+    "5": {
+      "length": 25
+    },
+    "6": {
+      "length": 23
+    },
+    "7": {
+      "length": 29
+    },
+    "8": {
+      "length": 18
+    },
+    "9": {
+      "length": 13
+    },
+    "10": {
+      "length": 19
+    },
+    "11": {
+      "length": 27
+    },
+    "12": {
+      "length": 31
+    },
+    "13": {
+      "length": 39
+    },
+    "14": {
+      "length": 33
+    },
+    "15": {
+      "length": 37
+    },
+    "16": {
+      "length": 23
+    },
+    "17": {
+      "length": 29
+    },
+    "18": {
+      "length": 33
+    },
+    "19": {
+      "length": 43
+    },
+    "20": {
+      "length": 26
+    },
+    "21": {
+      "length": 22
+    },
+    "22": {
+      "length": 51
+    },
+    "23": {
+      "length": 39
+    },
+    "24": {
+      "length": 25
+    },
+    "length": 24,
+    "index": 9,
+    "section": "History",
+    "testament": "Old Testament"
+  },
+  "I Kings": {
+    "1": {
+      "length": 53
+    },
+    "2": {
+      "length": 46
+    },
+    "3": {
+      "length": 28
+    },
+    "4": {
+      "length": 34
+    },
+    "5": {
+      "length": 18
+    },
+    "6": {
+      "length": 38
+    },
+    "7": {
+      "length": 51
+    },
+    "8": {
+      "length": 66
+    },
+    "9": {
+      "length": 28
+    },
+    "10": {
+      "length": 29
+    },
+    "11": {
+      "length": 43
+    },
+    "12": {
+      "length": 33
+    },
+    "13": {
+      "length": 34
+    },
+    "14": {
+      "length": 31
+    },
+    "15": {
+      "length": 34
+    },
+    "16": {
+      "length": 34
+    },
+    "17": {
+      "length": 24
+    },
+    "18": {
+      "length": 46
+    },
+    "19": {
+      "length": 21
+    },
+    "20": {
+      "length": 43
+    },
+    "21": {
+      "length": 29
+    },
+    "22": {
+      "length": 53
+    },
+    "length": 22,
+    "index": 10,
+    "section": "History",
+    "testament": "Old Testament"
+  },
+  "II Kings": {
+    "1": {
+      "length": 18
+    },
+    "2": {
+      "length": 25
+    },
+    "3": {
+      "length": 27
+    },
+    "4": {
+      "length": 44
+    },
+    "5": {
+      "length": 27
+    },
+    "6": {
+      "length": 33
+    },
+    "7": {
+      "length": 20
+    },
+    "8": {
+      "length": 29
+    },
+    "9": {
+      "length": 37
+    },
+    "10": {
+      "length": 36
+    },
+    "11": {
+      "length": 21
+    },
+    "12": {
+      "length": 21
+    },
+    "13": {
+      "length": 25
+    },
+    "14": {
+      "length": 29
+    },
+    "15": {
+      "length": 38
+    },
+    "16": {
+      "length": 20
+    },
+    "17": {
+      "length": 41
+    },
+    "18": {
+      "length": 37
+    },
+    "19": {
+      "length": 37
+    },
+    "20": {
+      "length": 21
+    },
+    "21": {
+      "length": 26
+    },
+    "22": {
+      "length": 20
+    },
+    "23": {
+      "length": 37
+    },
+    "24": {
+      "length": 20
+    },
+    "25": {
+      "length": 30
+    },
+    "length": 25,
+    "index": 11,
+    "section": "History",
+    "testament": "Old Testament"
+  },
+  "1 Chronicles": {
+    "1": {
+      "length": 54
+    },
+    "2": {
+      "length": 55
+    },
+    "3": {
+      "length": 24
+    },
+    "4": {
+      "length": 43
+    },
+    "5": {
+      "length": 26
+    },
+    "6": {
+      "length": 81
+    },
+    "7": {
+      "length": 40
+    },
+    "8": {
+      "length": 40
+    },
+    "9": {
+      "length": 44
+    },
+    "10": {
+      "length": 14
+    },
+    "11": {
+      "length": 47
+    },
+    "12": {
+      "length": 40
+    },
+    "13": {
+      "length": 14
+    },
+    "14": {
+      "length": 17
+    },
+    "15": {
+      "length": 29
+    },
+    "16": {
+      "length": 43
+    },
+    "17": {
+      "length": 27
+    },
+    "18": {
+      "length": 17
+    },
+    "19": {
+      "length": 19
+    },
+    "20": {
+      "length": 8
+    },
+    "21": {
+      "length": 30
+    },
+    "22": {
+      "length": 19
+    },
+    "23": {
+      "length": 32
+    },
+    "24": {
+      "length": 31
+    },
+    "25": {
+      "length": 31
+    },
+    "26": {
+      "length": 32
+    },
+    "27": {
+      "length": 34
+    },
+    "28": {
+      "length": 21
+    },
+    "29": {
+      "length": 30
+    },
+    "length": 29,
+    "index": 12,
+    "section": "History",
+    "testament": "Old Testament"
+  },
+  "2 Chronicles": {
+    "1": {
+      "length": 17
+    },
+    "2": {
+      "length": 18
+    },
+    "3": {
+      "length": 17
+    },
+    "4": {
+      "length": 22
+    },
+    "5": {
+      "length": 14
+    },
+    "6": {
+      "length": 42
+    },
+    "7": {
+      "length": 22
+    },
+    "8": {
+      "length": 18
+    },
+    "9": {
+      "length": 31
+    },
+    "10": {
+      "length": 19
+    },
+    "11": {
+      "length": 23
+    },
+    "12": {
+      "length": 16
+    },
+    "13": {
+      "length": 22
+    },
+    "14": {
+      "length": 15
+    },
+    "15": {
+      "length": 19
+    },
+    "16": {
+      "length": 14
+    },
+    "17": {
+      "length": 19
+    },
+    "18": {
+      "length": 34
+    },
+    "19": {
+      "length": 11
+    },
+    "20": {
+      "length": 37
+    },
+    "21": {
+      "length": 20
+    },
+    "22": {
+      "length": 12
+    },
+    "23": {
+      "length": 21
+    },
+    "24": {
+      "length": 27
+    },
+    "25": {
+      "length": 28
+    },
+    "26": {
+      "length": 23
+    },
+    "27": {
+      "length": 9
+    },
+    "28": {
+      "length": 27
+    },
+    "29": {
+      "length": 36
+    },
+    "30": {
+      "length": 27
+    },
+    "31": {
+      "length": 21
+    },
+    "32": {
+      "length": 33
+    },
+    "33": {
+      "length": 25
+    },
+    "34": {
+      "length": 33
+    },
+    "35": {
+      "length": 27
+    },
+    "36": {
+      "length": 23
+    },
+    "length": 36,
+    "index": 13,
+    "section": "History",
+    "testament": "Old Testament"
+  },
+  "Ezra": {
+    "1": {
+      "length": 11
+    },
+    "2": {
+      "length": 70
+    },
+    "3": {
+      "length": 13
+    },
+    "4": {
+      "length": 24
+    },
+    "5": {
+      "length": 17
+    },
+    "6": {
+      "length": 22
+    },
+    "7": {
+      "length": 28
+    },
+    "8": {
+      "length": 36
+    },
+    "9": {
+      "length": 15
+    },
+    "10": {
+      "length": 44
+    },
+    "index": 14,
+    "section": "History",
+    "length": 10,
+    "testament": "Old Testament"
+  },
+  "Nehemiah": {
+    "1": {
+      "length": 11
+    },
+    "2": {
+      "length": 20
+    },
+    "3": {
+      "length": 32
+    },
+    "4": {
+      "length": 23
+    },
+    "5": {
+      "length": 19
+    },
+    "6": {
+      "length": 19
+    },
+    "7": {
+      "length": 73
+    },
+    "8": {
+      "length": 18
+    },
+    "9": {
+      "length": 38
+    },
+    "10": {
+      "length": 39
+    },
+    "11": {
+      "length": 36
+    },
+    "12": {
+      "length": 47
+    },
+    "13": {
+      "length": 31
+    },
+    "index": 15,
+    "section": "History",
+    "length": 13,
+    "testament": "Old Testament"
+  },
+  "Esther": {
+    "1": {
+      "length": 22
+    },
+    "2": {
+      "length": 23
+    },
+    "3": {
+      "length": 15
+    },
+    "4": {
+      "length": 17
+    },
+    "5": {
+      "length": 14
+    },
+    "6": {
+      "length": 14
+    },
+    "7": {
+      "length": 10
+    },
+    "8": {
+      "length": 17
+    },
+    "9": {
+      "length": 32
+    },
+    "10": {
+      "length": 3
+    },
+    "index": 16,
+    "section": "History",
+    "length": 10,
+    "testament": "Old Testament"
+  },
+  "Job": {
+    "1": {
+      "length": 22
+    },
+    "2": {
+      "length": 13
+    },
+    "3": {
+      "length": 26
+    },
+    "4": {
+      "length": 21
+    },
+    "5": {
+      "length": 27
+    },
+    "6": {
+      "length": 30
+    },
+    "7": {
+      "length": 21
+    },
+    "8": {
+      "length": 22
+    },
+    "9": {
+      "length": 35
+    },
+    "10": {
+      "length": 22
+    },
+    "11": {
+      "length": 20
+    },
+    "12": {
+      "length": 25
+    },
+    "13": {
+      "length": 28
+    },
+    "14": {
+      "length": 22
+    },
+    "15": {
+      "length": 35
+    },
+    "16": {
+      "length": 22
+    },
+    "17": {
+      "length": 16
+    },
+    "18": {
+      "length": 21
+    },
+    "19": {
+      "length": 29
+    },
+    "20": {
+      "length": 29
+    },
+    "21": {
+      "length": 34
+    },
+    "22": {
+      "length": 30
+    },
+    "23": {
+      "length": 17
+    },
+    "24": {
+      "length": 25
+    },
+    "25": {
+      "length": 6
+    },
+    "26": {
+      "length": 14
+    },
+    "27": {
+      "length": 23
+    },
+    "28": {
+      "length": 28
+    },
+    "29": {
+      "length": 25
+    },
+    "30": {
+      "length": 31
+    },
+    "31": {
+      "length": 40
+    },
+    "32": {
+      "length": 22
+    },
+    "33": {
+      "length": 33
+    },
+    "34": {
+      "length": 37
+    },
+    "35": {
+      "length": 16
+    },
+    "36": {
+      "length": 33
+    },
+    "37": {
+      "length": 24
+    },
+    "38": {
+      "length": 41
+    },
+    "39": {
+      "length": 30
+    },
+    "40": {
+      "length": 24
+    },
+    "41": {
+      "length": 34
+    },
+    "42": {
+      "length": 17
+    },
+    "length": 42,
+    "index": 17,
+    "section": "Wisdom",
+    "testament": "Old Testament"
+  },
+  "Psalms": {
+    "1": {
+      "length": 6
+    },
+    "2": {
+      "length": 12
+    },
+    "3": {
+      "length": 8
+    },
+    "4": {
+      "length": 8
+    },
+    "5": {
+      "length": 12
+    },
+    "6": {
+      "length": 10
+    },
+    "7": {
+      "length": 17
+    },
+    "8": {
+      "length": 9
+    },
+    "9": {
+      "length": 20
+    },
+    "10": {
+      "length": 18
+    },
+    "11": {
+      "length": 7
+    },
+    "12": {
+      "length": 8
+    },
+    "13": {
+      "length": 6
+    },
+    "14": {
+      "length": 7
+    },
+    "15": {
+      "length": 5
+    },
+    "16": {
+      "length": 11
+    },
+    "17": {
+      "length": 15
+    },
+    "18": {
+      "length": 50
+    },
+    "19": {
+      "length": 14
+    },
+    "20": {
+      "length": 9
+    },
+    "21": {
+      "length": 13
+    },
+    "22": {
+      "length": 31
+    },
+    "23": {
+      "length": 6
+    },
+    "24": {
+      "length": 10
+    },
+    "25": {
+      "length": 22
+    },
+    "26": {
+      "length": 12
+    },
+    "27": {
+      "length": 14
+    },
+    "28": {
+      "length": 9
+    },
+    "29": {
+      "length": 11
+    },
+    "30": {
+      "length": 12
+    },
+    "31": {
+      "length": 24
+    },
+    "32": {
+      "length": 11
+    },
+    "33": {
+      "length": 22
+    },
+    "34": {
+      "length": 22
+    },
+    "35": {
+      "length": 28
+    },
+    "36": {
+      "length": 12
+    },
+    "37": {
+      "length": 40
+    },
+    "38": {
+      "length": 22
+    },
+    "39": {
+      "length": 13
+    },
+    "40": {
+      "length": 17
+    },
+    "41": {
+      "length": 13
+    },
+    "42": {
+      "length": 11
+    },
+    "43": {
+      "length": 5
+    },
+    "44": {
+      "length": 26
+    },
+    "45": {
+      "length": 17
+    },
+    "46": {
+      "length": 11
+    },
+    "47": {
+      "length": 9
+    },
+    "48": {
+      "length": 14
+    },
+    "49": {
+      "length": 20
+    },
+    "50": {
+      "length": 23
+    },
+    "51": {
+      "length": 19
+    },
+    "52": {
+      "length": 9
+    },
+    "53": {
+      "length": 6
+    },
+    "54": {
+      "length": 7
+    },
+    "55": {
+      "length": 23
+    },
+    "56": {
+      "length": 13
+    },
+    "57": {
+      "length": 11
+    },
+    "58": {
+      "length": 11
+    },
+    "59": {
+      "length": 17
+    },
+    "60": {
+      "length": 12
+    },
+    "61": {
+      "length": 8
+    },
+    "62": {
+      "length": 12
+    },
+    "63": {
+      "length": 11
+    },
+    "64": {
+      "length": 10
+    },
+    "65": {
+      "length": 13
+    },
+    "66": {
+      "length": 20
+    },
+    "67": {
+      "length": 7
+    },
+    "68": {
+      "length": 35
+    },
+    "69": {
+      "length": 36
+    },
+    "70": {
+      "length": 5
+    },
+    "71": {
+      "length": 24
+    },
+    "72": {
+      "length": 20
+    },
+    "73": {
+      "length": 28
+    },
+    "74": {
+      "length": 23
+    },
+    "75": {
+      "length": 10
+    },
+    "76": {
+      "length": 12
+    },
+    "77": {
+      "length": 20
+    },
+    "78": {
+      "length": 72
+    },
+    "79": {
+      "length": 13
+    },
+    "80": {
+      "length": 19
+    },
+    "81": {
+      "length": 16
+    },
+    "82": {
+      "length": 8
+    },
+    "83": {
+      "length": 18
+    },
+    "84": {
+      "length": 12
+    },
+    "85": {
+      "length": 13
+    },
+    "86": {
+      "length": 17
+    },
+    "87": {
+      "length": 7
+    },
+    "88": {
+      "length": 18
+    },
+    "89": {
+      "length": 52
+    },
+    "90": {
+      "length": 17
+    },
+    "91": {
+      "length": 16
+    },
+    "92": {
+      "length": 15
+    },
+    "93": {
+      "length": 5
+    },
+    "94": {
+      "length": 23
+    },
+    "95": {
+      "length": 11
+    },
+    "96": {
+      "length": 13
+    },
+    "97": {
+      "length": 12
+    },
+    "98": {
+      "length": 9
+    },
+    "99": {
+      "length": 9
+    },
+    "100": {
+      "length": 5
+    },
+    "101": {
+      "length": 8
+    },
+    "102": {
+      "length": 28
+    },
+    "103": {
+      "length": 22
+    },
+    "104": {
+      "length": 35
+    },
+    "105": {
+      "length": 45
+    },
+    "106": {
+      "length": 48
+    },
+    "107": {
+      "length": 43
+    },
+    "108": {
+      "length": 13
+    },
+    "109": {
+      "length": 31
+    },
+    "110": {
+      "length": 7
+    },
+    "111": {
+      "length": 10
+    },
+    "112": {
+      "length": 10
+    },
+    "113": {
+      "length": 9
+    },
+    "114": {
+      "length": 8
+    },
+    "115": {
+      "length": 18
+    },
+    "116": {
+      "length": 19
+    },
+    "117": {
+      "length": 2
+    },
+    "118": {
+      "length": 29
+    },
+    "119": {
+      "length": 176
+    },
+    "120": {
+      "length": 7
+    },
+    "121": {
+      "length": 8
+    },
+    "122": {
+      "length": 9
+    },
+    "123": {
+      "length": 4
+    },
+    "124": {
+      "length": 8
+    },
+    "125": {
+      "length": 5
+    },
+    "126": {
+      "length": 6
+    },
+    "127": {
+      "length": 5
+    },
+    "128": {
+      "length": 6
+    },
+    "129": {
+      "length": 8
+    },
+    "130": {
+      "length": 8
+    },
+    "131": {
+      "length": 3
+    },
+    "132": {
+      "length": 18
+    },
+    "133": {
+      "length": 3
+    },
+    "134": {
+      "length": 3
+    },
+    "135": {
+      "length": 21
+    },
+    "136": {
+      "length": 26
+    },
+    "137": {
+      "length": 9
+    },
+    "138": {
+      "length": 8
+    },
+    "139": {
+      "length": 24
+    },
+    "140": {
+      "length": 13
+    },
+    "141": {
+      "length": 10
+    },
+    "142": {
+      "length": 7
+    },
+    "143": {
+      "length": 12
+    },
+    "144": {
+      "length": 15
+    },
+    "145": {
+      "length": 21
+    },
+    "146": {
+      "length": 10
+    },
+    "147": {
+      "length": 20
+    },
+    "148": {
+      "length": 14
+    },
+    "149": {
+      "length": 9
+    },
+    "150": {
+      "length": 6
+    },
+    "length": 150,
+    "index": 18,
+    "section": "Wisdom",
+    "testament": "Old Testament"
+  },
+  "Proverbs": {
+    "1": {
+      "length": 33
+    },
+    "2": {
+      "length": 22
+    },
+    "3": {
+      "length": 35
+    },
+    "4": {
+      "length": 27
+    },
+    "5": {
+      "length": 23
+    },
+    "6": {
+      "length": 35
+    },
+    "7": {
+      "length": 27
+    },
+    "8": {
+      "length": 36
+    },
+    "9": {
+      "length": 18
+    },
+    "10": {
+      "length": 32
+    },
+    "11": {
+      "length": 31
+    },
+    "12": {
+      "length": 28
+    },
+    "13": {
+      "length": 25
+    },
+    "14": {
+      "length": 35
+    },
+    "15": {
+      "length": 33
+    },
+    "16": {
+      "length": 33
+    },
+    "17": {
+      "length": 28
+    },
+    "18": {
+      "length": 24
+    },
+    "19": {
+      "length": 29
+    },
+    "20": {
+      "length": 30
+    },
+    "21": {
+      "length": 31
+    },
+    "22": {
+      "length": 29
+    },
+    "23": {
+      "length": 35
+    },
+    "24": {
+      "length": 34
+    },
+    "25": {
+      "length": 28
+    },
+    "26": {
+      "length": 28
+    },
+    "27": {
+      "length": 27
+    },
+    "28": {
+      "length": 28
+    },
+    "29": {
+      "length": 27
+    },
+    "30": {
+      "length": 33
+    },
+    "31": {
+      "length": 31
+    },
+    "length": 31,
+    "index": 19,
+    "section": "Wisdom",
+    "testament": "Old Testament"
+  },
+  "Ecclesiastes": {
+    "1": {
+      "length": 18
+    },
+    "2": {
+      "length": 26
+    },
+    "3": {
+      "length": 22
+    },
+    "4": {
+      "length": 16
+    },
+    "5": {
+      "length": 20
+    },
+    "6": {
+      "length": 12
+    },
+    "7": {
+      "length": 29
+    },
+    "8": {
+      "length": 17
+    },
+    "9": {
+      "length": 18
+    },
+    "10": {
+      "length": 20
+    },
+    "11": {
+      "length": 10
+    },
+    "12": {
+      "length": 14
+    },
+    "index": 20,
+    "section": "Wisdom",
+    "length": 12,
+    "testament": "Old Testament"
+  },
+  "Song of Solomon": {
+    "1": {
+      "length": 17
+    },
+    "2": {
+      "length": 17
+    },
+    "3": {
+      "length": 11
+    },
+    "4": {
+      "length": 16
+    },
+    "5": {
+      "length": 16
+    },
+    "6": {
+      "length": 13
+    },
+    "7": {
+      "length": 13
+    },
+    "8": {
+      "length": 14
+    },
+    "index": 21,
+    "section": "Wisdom",
+    "length": 8,
+    "testament": "Old Testament"
+  },
+  "Isaiah": {
+    "1": {
+      "length": 31
+    },
+    "2": {
+      "length": 22
+    },
+    "3": {
+      "length": 26
+    },
+    "4": {
+      "length": 6
+    },
+    "5": {
+      "length": 30
+    },
+    "6": {
+      "length": 13
+    },
+    "7": {
+      "length": 25
+    },
+    "8": {
+      "length": 22
+    },
+    "9": {
+      "length": 21
+    },
+    "10": {
+      "length": 34
+    },
+    "11": {
+      "length": 16
+    },
+    "12": {
+      "length": 6
+    },
+    "13": {
+      "length": 22
+    },
+    "14": {
+      "length": 32
+    },
+    "15": {
+      "length": 9
+    },
+    "16": {
+      "length": 14
+    },
+    "17": {
+      "length": 14
+    },
+    "18": {
+      "length": 7
+    },
+    "19": {
+      "length": 25
+    },
+    "20": {
+      "length": 6
+    },
+    "21": {
+      "length": 17
+    },
+    "22": {
+      "length": 25
+    },
+    "23": {
+      "length": 18
+    },
+    "24": {
+      "length": 23
+    },
+    "25": {
+      "length": 12
+    },
+    "26": {
+      "length": 21
+    },
+    "27": {
+      "length": 13
+    },
+    "28": {
+      "length": 29
+    },
+    "29": {
+      "length": 24
+    },
+    "30": {
+      "length": 33
+    },
+    "31": {
+      "length": 9
+    },
+    "32": {
+      "length": 20
+    },
+    "33": {
+      "length": 24
+    },
+    "34": {
+      "length": 17
+    },
+    "35": {
+      "length": 10
+    },
+    "36": {
+      "length": 22
+    },
+    "37": {
+      "length": 38
+    },
+    "38": {
+      "length": 22
+    },
+    "39": {
+      "length": 8
+    },
+    "40": {
+      "length": 31
+    },
+    "41": {
+      "length": 29
+    },
+    "42": {
+      "length": 25
+    },
+    "43": {
+      "length": 28
+    },
+    "44": {
+      "length": 28
+    },
+    "45": {
+      "length": 25
+    },
+    "46": {
+      "length": 13
+    },
+    "47": {
+      "length": 15
+    },
+    "48": {
+      "length": 22
+    },
+    "49": {
+      "length": 26
+    },
+    "50": {
+      "length": 11
+    },
+    "51": {
+      "length": 23
+    },
+    "52": {
+      "length": 15
+    },
+    "53": {
+      "length": 12
+    },
+    "54": {
+      "length": 17
+    },
+    "55": {
+      "length": 13
+    },
+    "56": {
+      "length": 12
+    },
+    "57": {
+      "length": 21
+    },
+    "58": {
+      "length": 14
+    },
+    "59": {
+      "length": 21
+    },
+    "60": {
+      "length": 22
+    },
+    "61": {
+      "length": 11
+    },
+    "62": {
+      "length": 12
+    },
+    "63": {
+      "length": 19
+    },
+    "64": {
+      "length": 12
+    },
+    "65": {
+      "length": 25
+    },
+    "66": {
+      "length": 24
+    },
+    "length": 66,
+    "index": 22,
+    "section": "Major Prophets",
+    "super_section": "Prophets",
+    "testament": "Old Testament"
+  },
+  "Jeremiah": {
+    "1": {
+      "length": 19
+    },
+    "2": {
+      "length": 37
+    },
+    "3": {
+      "length": 25
+    },
+    "4": {
+      "length": 31
+    },
+    "5": {
+      "length": 31
+    },
+    "6": {
+      "length": 30
+    },
+    "7": {
+      "length": 34
+    },
+    "8": {
+      "length": 22
+    },
+    "9": {
+      "length": 26
+    },
+    "10": {
+      "length": 25
+    },
+    "11": {
+      "length": 23
+    },
+    "12": {
+      "length": 17
+    },
+    "13": {
+      "length": 27
+    },
+    "14": {
+      "length": 22
+    },
+    "15": {
+      "length": 21
+    },
+    "16": {
+      "length": 21
+    },
+    "17": {
+      "length": 27
+    },
+    "18": {
+      "length": 23
+    },
+    "19": {
+      "length": 15
+    },
+    "20": {
+      "length": 18
+    },
+    "21": {
+      "length": 14
+    },
+    "22": {
+      "length": 30
+    },
+    "23": {
+      "length": 40
+    },
+    "24": {
+      "length": 10
+    },
+    "25": {
+      "length": 38
+    },
+    "26": {
+      "length": 24
+    },
+    "27": {
+      "length": 22
+    },
+    "28": {
+      "length": 17
+    },
+    "29": {
+      "length": 32
+    },
+    "30": {
+      "length": 24
+    },
+    "31": {
+      "length": 40
+    },
+    "32": {
+      "length": 44
+    },
+    "33": {
+      "length": 26
+    },
+    "34": {
+      "length": 22
+    },
+    "35": {
+      "length": 19
+    },
+    "36": {
+      "length": 32
+    },
+    "37": {
+      "length": 21
+    },
+    "38": {
+      "length": 28
+    },
+    "39": {
+      "length": 18
+    },
+    "40": {
+      "length": 16
+    },
+    "41": {
+      "length": 18
+    },
+    "42": {
+      "length": 22
+    },
+    "43": {
+      "length": 13
+    },
+    "44": {
+      "length": 30
+    },
+    "45": {
+      "length": 5
+    },
+    "46": {
+      "length": 28
+    },
+    "47": {
+      "length": 7
+    },
+    "48": {
+      "length": 47
+    },
+    "49": {
+      "length": 39
+    },
+    "50": {
+      "length": 46
+    },
+    "51": {
+      "length": 64
+    },
+    "52": {
+      "length": 34
+    },
+    "length": 52,
+    "index": 23,
+    "section": "Major Prophets",
+    "super_section": "Prophets",
+    "testament": "Old Testament"
+  },
+  "Lamentations": {
+    "1": {
+      "length": 22
+    },
+    "2": {
+      "length": 22
+    },
+    "3": {
+      "length": 66
+    },
+    "4": {
+      "length": 22
+    },
+    "5": {
+      "length": 22
+    },
+    "index": 24,
+    "section": "Major Prophets",
+    "length": 5,
+    "super_section": "Prophets",
+    "testament": "Old Testament"
+  },
+  "Ezekiel": {
+    "1": {
+      "length": 28
+    },
+    "2": {
+      "length": 10
+    },
+    "3": {
+      "length": 27
+    },
+    "4": {
+      "length": 17
+    },
+    "5": {
+      "length": 17
+    },
+    "6": {
+      "length": 14
+    },
+    "7": {
+      "length": 27
+    },
+    "8": {
+      "length": 18
+    },
+    "9": {
+      "length": 11
+    },
+    "10": {
+      "length": 22
+    },
+    "11": {
+      "length": 25
+    },
+    "12": {
+      "length": 28
+    },
+    "13": {
+      "length": 23
+    },
+    "14": {
+      "length": 23
+    },
+    "15": {
+      "length": 8
+    },
+    "16": {
+      "length": 63
+    },
+    "17": {
+      "length": 24
+    },
+    "18": {
+      "length": 32
+    },
+    "19": {
+      "length": 14
+    },
+    "20": {
+      "length": 49
+    },
+    "21": {
+      "length": 32
+    },
+    "22": {
+      "length": 31
+    },
+    "23": {
+      "length": 49
+    },
+    "24": {
+      "length": 27
+    },
+    "25": {
+      "length": 17
+    },
+    "26": {
+      "length": 21
+    },
+    "27": {
+      "length": 36
+    },
+    "28": {
+      "length": 26
+    },
+    "29": {
+      "length": 21
+    },
+    "30": {
+      "length": 26
+    },
+    "31": {
+      "length": 18
+    },
+    "32": {
+      "length": 32
+    },
+    "33": {
+      "length": 33
+    },
+    "34": {
+      "length": 31
+    },
+    "35": {
+      "length": 15
+    },
+    "36": {
+      "length": 38
+    },
+    "37": {
+      "length": 28
+    },
+    "38": {
+      "length": 23
+    },
+    "39": {
+      "length": 29
+    },
+    "40": {
+      "length": 49
+    },
+    "41": {
+      "length": 26
+    },
+    "42": {
+      "length": 20
+    },
+    "43": {
+      "length": 27
+    },
+    "44": {
+      "length": 31
+    },
+    "45": {
+      "length": 25
+    },
+    "46": {
+      "length": 24
+    },
+    "47": {
+      "length": 23
+    },
+    "48": {
+      "length": 35
+    },
+    "length": 48,
+    "index": 25,
+    "section": "Major Prophets",
+    "super_section": "Prophets",
+    "testament": "Old Testament"
+  },
+  "Daniel": {
+    "1": {
+      "length": 21
+    },
+    "2": {
+      "length": 49
+    },
+    "3": {
+      "length": 30
+    },
+    "4": {
+      "length": 37
+    },
+    "5": {
+      "length": 31
+    },
+    "6": {
+      "length": 28
+    },
+    "7": {
+      "length": 28
+    },
+    "8": {
+      "length": 27
+    },
+    "9": {
+      "length": 27
+    },
+    "10": {
+      "length": 21
+    },
+    "11": {
+      "length": 45
+    },
+    "12": {
+      "length": 13
+    },
+    "index": 26,
+    "section": "Major Prophets",
+    "length": 12,
+    "super_section": "Prophets",
+    "testament": "Old Testament"
+  },
+  "Hosea": {
+    "1": {
+      "length": 11
+    },
+    "2": {
+      "length": 23
+    },
+    "3": {
+      "length": 5
+    },
+    "4": {
+      "length": 19
+    },
+    "5": {
+      "length": 15
+    },
+    "6": {
+      "length": 11
+    },
+    "7": {
+      "length": 16
+    },
+    "8": {
+      "length": 14
+    },
+    "9": {
+      "length": 17
+    },
+    "10": {
+      "length": 15
+    },
+    "11": {
+      "length": 12
+    },
+    "12": {
+      "length": 14
+    },
+    "13": {
+      "length": 16
+    },
+    "14": {
+      "length": 9
+    },
+    "index": 27,
+    "section": "Minor Prophets",
+    "length": 14,
+    "super_section": "Prophets",
+    "testament": "Old Testament"
+  },
+  "Joel": {
+    "1": {
+      "length": 20
+    },
+    "2": {
+      "length": 32
+    },
+    "3": {
+      "length": 21
+    },
+    "index": 28,
+    "section": "Minor Prophets",
+    "length": 3,
+    "super_section": "Prophets",
+    "testament": "Old Testament"
+  },
+  "Amos": {
+    "1": {
+      "length": 15
+    },
+    "2": {
+      "length": 16
+    },
+    "3": {
+      "length": 15
+    },
+    "4": {
+      "length": 13
+    },
+    "5": {
+      "length": 27
+    },
+    "6": {
+      "length": 14
+    },
+    "7": {
+      "length": 17
+    },
+    "8": {
+      "length": 14
+    },
+    "9": {
+      "length": 15
+    },
+    "index": 29,
+    "section": "Minor Prophets",
+    "length": 9,
+    "super_section": "Prophets",
+    "testament": "Old Testament"
+  },
+  "Obadiah": {
+    "1": {
+      "length": 21
+    },
+    "index": 30,
+    "section": "Minor Prophets",
+    "length": 1,
+    "super_section": "Prophets",
+    "testament": "Old Testament"
+  },
+  "Jonah": {
+    "1": {
+      "length": 17
+    },
+    "2": {
+      "length": 10
+    },
+    "3": {
+      "length": 10
+    },
+    "4": {
+      "length": 11
+    },
+    "index": 31,
+    "section": "Minor Prophets",
+    "length": 4,
+    "super_section": "Prophets",
+    "testament": "Old Testament"
+  },
+  "Micah": {
+    "1": {
+      "length": 16
+    },
+    "2": {
+      "length": 13
+    },
+    "3": {
+      "length": 12
+    },
+    "4": {
+      "length": 13
+    },
+    "5": {
+      "length": 15
+    },
+    "6": {
+      "length": 16
+    },
+    "7": {
+      "length": 20
+    },
+    "index": 32,
+    "section": "Minor Prophets",
+    "length": 7,
+    "super_section": "Prophets",
+    "testament": "Old Testament"
+  },
+  "Nahum": {
+    "1": {
+      "length": 15
+    },
+    "2": {
+      "length": 13
+    },
+    "3": {
+      "length": 19
+    },
+    "index": 33,
+    "section": "Minor Prophets",
+    "length": 3,
+    "super_section": "Prophets",
+    "testament": "Old Testament"
+  },
+  "Habakkuk": {
+    "1": {
+      "length": 17
+    },
+    "2": {
+      "length": 20
+    },
+    "3": {
+      "length": 19
+    },
+    "index": 34,
+    "section": "Minor Prophets",
+    "length": 3,
+    "super_section": "Prophets",
+    "testament": "Old Testament"
+  },
+  "Zephaniah": {
+    "1": {
+      "length": 18
+    },
+    "2": {
+      "length": 15
+    },
+    "3": {
+      "length": 20
+    },
+    "index": 35,
+    "section": "Minor Prophets",
+    "length": 3,
+    "super_section": "Prophets",
+    "testament": "Old Testament"
+  },
+  "Haggai": {
+    "1": {
+      "length": 15
+    },
+    "2": {
+      "length": 23
+    },
+    "index": 36,
+    "section": "Minor Prophets",
+    "length": 2,
+    "super_section": "Prophets",
+    "testament": "Old Testament"
+  },
+  "Zechariah": {
+    "1": {
+      "length": 21
+    },
+    "2": {
+      "length": 13
+    },
+    "3": {
+      "length": 10
+    },
+    "4": {
+      "length": 14
+    },
+    "5": {
+      "length": 11
+    },
+    "6": {
+      "length": 15
+    },
+    "7": {
+      "length": 14
+    },
+    "8": {
+      "length": 23
+    },
+    "9": {
+      "length": 17
+    },
+    "10": {
+      "length": 12
+    },
+    "11": {
+      "length": 17
+    },
+    "12": {
+      "length": 14
+    },
+    "13": {
+      "length": 9
+    },
+    "14": {
+      "length": 21
+    },
+    "index": 37,
+    "section": "Minor Prophets",
+    "length": 14,
+    "super_section": "Prophets",
+    "testament": "Old Testament"
+  },
+  "Malachi": {
+    "1": {
+      "length": 14
+    },
+    "2": {
+      "length": 17
+    },
+    "3": {
+      "length": 18
+    },
+    "4": {
+      "length": 6
+    },
+    "index": 38,
+    "section": "Minor Prophets",
+    "length": 4,
+    "super_section": "Prophets",
+    "testament": "Old Testament"
+  },
+  "Matthew": {
+    "1": {
+      "length": 25
+    },
+    "2": {
+      "length": 23
+    },
+    "3": {
+      "length": 17
+    },
+    "4": {
+      "length": 25
+    },
+    "5": {
+      "length": 48
+    },
+    "6": {
+      "length": 34
+    },
+    "7": {
+      "length": 29
+    },
+    "8": {
+      "length": 34
+    },
+    "9": {
+      "length": 38
+    },
+    "10": {
+      "length": 42
+    },
+    "11": {
+      "length": 30
+    },
+    "12": {
+      "length": 49
+    },
+    "13": {
+      "length": 58
+    },
+    "14": {
+      "length": 36
+    },
+    "15": {
+      "length": 39
+    },
+    "16": {
+      "length": 28
+    },
+    "17": {
+      "length": 27
+    },
+    "18": {
+      "length": 35
+    },
+    "19": {
+      "length": 30
+    },
+    "20": {
+      "length": 34
+    },
+    "21": {
+      "length": 46
+    },
+    "22": {
+      "length": 46
+    },
+    "23": {
+      "length": 39
+    },
+    "24": {
+      "length": 51
+    },
+    "25": {
+      "length": 46
+    },
+    "26": {
+      "length": 75
+    },
+    "27": {
+      "length": 66
+    },
+    "28": {
+      "length": 20
+    },
+    "length": 28,
+    "index": 39,
+    "section": "Gospel",
+    "testament": "New Testament"
+  },
+  "Mark": {
+    "1": {
+      "length": 45
+    },
+    "2": {
+      "length": 28
+    },
+    "3": {
+      "length": 35
+    },
+    "4": {
+      "length": 41
+    },
+    "5": {
+      "length": 43
+    },
+    "6": {
+      "length": 56
+    },
+    "7": {
+      "length": 37
+    },
+    "8": {
+      "length": 38
+    },
+    "9": {
+      "length": 50
+    },
+    "10": {
+      "length": 52
+    },
+    "11": {
+      "length": 33
+    },
+    "12": {
+      "length": 44
+    },
+    "13": {
+      "length": 37
+    },
+    "14": {
+      "length": 72
+    },
+    "15": {
+      "length": 47
+    },
+    "16": {
+      "length": 20
+    },
+    "index": 40,
+    "section": "Gospel",
+    "length": 16,
+    "testament": "New Testament"
+  },
+  "Luke": {
+    "1": {
+      "length": 80
+    },
+    "2": {
+      "length": 52
+    },
+    "3": {
+      "length": 38
+    },
+    "4": {
+      "length": 44
+    },
+    "5": {
+      "length": 39
+    },
+    "6": {
+      "length": 49
+    },
+    "7": {
+      "length": 50
+    },
+    "8": {
+      "length": 56
+    },
+    "9": {
+      "length": 62
+    },
+    "10": {
+      "length": 42
+    },
+    "11": {
+      "length": 54
+    },
+    "12": {
+      "length": 59
+    },
+    "13": {
+      "length": 35
+    },
+    "14": {
+      "length": 35
+    },
+    "15": {
+      "length": 32
+    },
+    "16": {
+      "length": 31
+    },
+    "17": {
+      "length": 37
+    },
+    "18": {
+      "length": 43
+    },
+    "19": {
+      "length": 48
+    },
+    "20": {
+      "length": 47
+    },
+    "21": {
+      "length": 38
+    },
+    "22": {
+      "length": 71
+    },
+    "23": {
+      "length": 56
+    },
+    "24": {
+      "length": 53
+    },
+    "length": 24,
+    "index": 41,
+    "section": "Gospel",
+    "testament": "New Testament"
+  },
+  "John": {
+    "1": {
+      "length": 51
+    },
+    "2": {
+      "length": 25
+    },
+    "3": {
+      "length": 36
+    },
+    "4": {
+      "length": 54
+    },
+    "5": {
+      "length": 47
+    },
+    "6": {
+      "length": 71
+    },
+    "7": {
+      "length": 53
+    },
+    "8": {
+      "length": 59
+    },
+    "9": {
+      "length": 41
+    },
+    "10": {
+      "length": 42
+    },
+    "11": {
+      "length": 57
+    },
+    "12": {
+      "length": 50
+    },
+    "13": {
+      "length": 38
+    },
+    "14": {
+      "length": 31
+    },
+    "15": {
+      "length": 27
+    },
+    "16": {
+      "length": 33
+    },
+    "17": {
+      "length": 26
+    },
+    "18": {
+      "length": 40
+    },
+    "19": {
+      "length": 42
+    },
+    "20": {
+      "length": 31
+    },
+    "21": {
+      "length": 25
+    },
+    "length": 21,
+    "index": 42,
+    "section": "Gospel",
+    "testament": "New Testament"
+  },
+  "Acts": {
+    "1": {
+      "length": 26
+    },
+    "2": {
+      "length": 47
+    },
+    "3": {
+      "length": 26
+    },
+    "4": {
+      "length": 37
+    },
+    "5": {
+      "length": 42
+    },
+    "6": {
+      "length": 15
+    },
+    "7": {
+      "length": 60
+    },
+    "8": {
+      "length": 40
+    },
+    "9": {
+      "length": 43
+    },
+    "10": {
+      "length": 48
+    },
+    "11": {
+      "length": 30
+    },
+    "12": {
+      "length": 25
+    },
+    "13": {
+      "length": 52
+    },
+    "14": {
+      "length": 28
+    },
+    "15": {
+      "length": 41
+    },
+    "16": {
+      "length": 40
+    },
+    "17": {
+      "length": 34
+    },
+    "18": {
+      "length": 28
+    },
+    "19": {
+      "length": 41
+    },
+    "20": {
+      "length": 38
+    },
+    "21": {
+      "length": 40
+    },
+    "22": {
+      "length": 30
+    },
+    "23": {
+      "length": 35
+    },
+    "24": {
+      "length": 27
+    },
+    "25": {
+      "length": 27
+    },
+    "26": {
+      "length": 32
+    },
+    "27": {
+      "length": 44
+    },
+    "28": {
+      "length": 31
+    },
+    "length": 28,
+    "index": 43,
+    "section": "Acts",
+    "testament": "New Testament"
+  },
+  "Romans": {
+    "1": {
+      "length": 32
+    },
+    "2": {
+      "length": 29
+    },
+    "3": {
+      "length": 31
+    },
+    "4": {
+      "length": 25
+    },
+    "5": {
+      "length": 21
+    },
+    "6": {
+      "length": 23
+    },
+    "7": {
+      "length": 25
+    },
+    "8": {
+      "length": 39
+    },
+    "9": {
+      "length": 33
+    },
+    "10": {
+      "length": 21
+    },
+    "11": {
+      "length": 36
+    },
+    "12": {
+      "length": 21
+    },
+    "13": {
+      "length": 14
+    },
+    "14": {
+      "length": 23
+    },
+    "15": {
+      "length": 33
+    },
+    "16": {
+      "length": 27
+    },
+    "index": 44,
+    "section": "Pauline Epistles",
+    "length": 16,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "I Corinthians": {
+    "1": {
+      "length": 31
+    },
+    "2": {
+      "length": 16
+    },
+    "3": {
+      "length": 23
+    },
+    "4": {
+      "length": 21
+    },
+    "5": {
+      "length": 13
+    },
+    "6": {
+      "length": 20
+    },
+    "7": {
+      "length": 40
+    },
+    "8": {
+      "length": 13
+    },
+    "9": {
+      "length": 27
+    },
+    "10": {
+      "length": 33
+    },
+    "11": {
+      "length": 34
+    },
+    "12": {
+      "length": 31
+    },
+    "13": {
+      "length": 13
+    },
+    "14": {
+      "length": 40
+    },
+    "15": {
+      "length": 58
+    },
+    "16": {
+      "length": 24
+    },
+    "index": 45,
+    "section": "Pauline Epistles",
+    "length": 16,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "II Corinthians": {
+    "1": {
+      "length": 24
+    },
+    "2": {
+      "length": 17
+    },
+    "3": {
+      "length": 18
+    },
+    "4": {
+      "length": 18
+    },
+    "5": {
+      "length": 21
+    },
+    "6": {
+      "length": 18
+    },
+    "7": {
+      "length": 16
+    },
+    "8": {
+      "length": 24
+    },
+    "9": {
+      "length": 15
+    },
+    "10": {
+      "length": 18
+    },
+    "11": {
+      "length": 33
+    },
+    "12": {
+      "length": 21
+    },
+    "13": {
+      "length": 14
+    },
+    "index": 46,
+    "section": "Pauline Epistles",
+    "length": 13,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "Galatians": {
+    "1": {
+      "length": 24
+    },
+    "2": {
+      "length": 21
+    },
+    "3": {
+      "length": 29
+    },
+    "4": {
+      "length": 31
+    },
+    "5": {
+      "length": 26
+    },
+    "6": {
+      "length": 18
+    },
+    "index": 47,
+    "section": "Pauline Epistles",
+    "length": 6,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "Ephesians": {
+    "1": {
+      "length": 23
+    },
+    "2": {
+      "length": 22
+    },
+    "3": {
+      "length": 21
+    },
+    "4": {
+      "length": 32
+    },
+    "5": {
+      "length": 33
+    },
+    "6": {
+      "length": 24
+    },
+    "index": 48,
+    "section": "Pauline Epistles",
+    "length": 6,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "Philippians": {
+    "1": {
+      "length": 30
+    },
+    "2": {
+      "length": 30
+    },
+    "3": {
+      "length": 21
+    },
+    "4": {
+      "length": 23
+    },
+    "index": 49,
+    "section": "Pauline Epistles",
+    "length": 4,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "Colossians": {
+    "1": {
+      "length": 29
+    },
+    "2": {
+      "length": 23
+    },
+    "3": {
+      "length": 25
+    },
+    "4": {
+      "length": 18
+    },
+    "index": 50,
+    "section": "Pauline Epistles",
+    "length": 4,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "I Thessalonians": {
+    "1": {
+      "length": 10
+    },
+    "2": {
+      "length": 20
+    },
+    "3": {
+      "length": 13
+    },
+    "4": {
+      "length": 18
+    },
+    "5": {
+      "length": 28
+    },
+    "index": 51,
+    "section": "Pauline Epistles",
+    "length": 5,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "II Thessalonians": {
+    "1": {
+      "length": 12
+    },
+    "2": {
+      "length": 17
+    },
+    "3": {
+      "length": 18
+    },
+    "index": 52,
+    "section": "Pauline Epistles",
+    "length": 3,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "I Timothy": {
+    "1": {
+      "length": 20
+    },
+    "2": {
+      "length": 15
+    },
+    "3": {
+      "length": 16
+    },
+    "4": {
+      "length": 16
+    },
+    "5": {
+      "length": 25
+    },
+    "6": {
+      "length": 21
+    },
+    "index": 53,
+    "section": "Pauline Epistles",
+    "length": 6,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "II Timothy": {
+    "1": {
+      "length": 18
+    },
+    "2": {
+      "length": 26
+    },
+    "3": {
+      "length": 17
+    },
+    "4": {
+      "length": 22
+    },
+    "index": 54,
+    "section": "Pauline Epistles",
+    "length": 4,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "Titus": {
+    "1": {
+      "length": 16
+    },
+    "2": {
+      "length": 15
+    },
+    "3": {
+      "length": 15
+    },
+    "index": 55,
+    "section": "Pauline Epistles",
+    "length": 3,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "Philemon": {
+    "1": {
+      "length": 25
+    },
+    "index": 56,
+    "section": "Pauline Epistles",
+    "length": 1,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "Hebrews": {
+    "1": {
+      "length": 14
+    },
+    "2": {
+      "length": 18
+    },
+    "3": {
+      "length": 19
+    },
+    "4": {
+      "length": 16
+    },
+    "5": {
+      "length": 14
+    },
+    "6": {
+      "length": 20
+    },
+    "7": {
+      "length": 28
+    },
+    "8": {
+      "length": 13
+    },
+    "9": {
+      "length": 28
+    },
+    "10": {
+      "length": 39
+    },
+    "11": {
+      "length": 40
+    },
+    "12": {
+      "length": 29
+    },
+    "13": {
+      "length": 25
+    },
+    "index": 57,
+    "section": "Pauline Epistles",
+    "length": 13,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "James": {
+    "1": {
+      "length": 27
+    },
+    "2": {
+      "length": 26
+    },
+    "3": {
+      "length": 18
+    },
+    "4": {
+      "length": 17
+    },
+    "5": {
+      "length": 20
+    },
+    "index": 58,
+    "section": "General Epistles",
+    "length": 5,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "I Peter": {
+    "1": {
+      "length": 25
+    },
+    "2": {
+      "length": 25
+    },
+    "3": {
+      "length": 22
+    },
+    "4": {
+      "length": 19
+    },
+    "5": {
+      "length": 14
+    },
+    "index": 59,
+    "section": "General Epistles",
+    "length": 5,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "II Peter": {
+    "1": {
+      "length": 21
+    },
+    "2": {
+      "length": 22
+    },
+    "3": {
+      "length": 18
+    },
+    "index": 60,
+    "section": "General Epistles",
+    "length": 3,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "I John": {
+    "1": {
+      "length": 10
+    },
+    "2": {
+      "length": 29
+    },
+    "3": {
+      "length": 24
+    },
+    "4": {
+      "length": 21
+    },
+    "5": {
+      "length": 21
+    },
+    "index": 61,
+    "section": "General Epistles",
+    "length": 5,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "II John": {
+    "1": {
+      "length": 13
+    },
+    "index": 62,
+    "section": "General Epistles",
+    "length": 1,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "III John": {
+    "1": {
+      "length": 14
+    },
+    "index": 63,
+    "section": "General Epistles",
+    "length": 1,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "Jude": {
+    "1": {
+      "length": 25
+    },
+    "index": 64,
+    "section": "General Epistles",
+    "length": 1,
+    "super_section": "Epistles",
+    "testament": "New Testament"
+  },
+  "Revelation": {
+      "1": {
+        "length": 20
+      },
+      "2": {
+        "length": 29
+      },
+      "3": {
+        "length": 22
+      },
+      "4": {
+        "length": 11
+      },
+      "5": {
+        "length": 14
+      },
+      "6": {
+        "length": 17
+      },
+      "7": {
+        "length": 17
+      },
+      "8": {
+        "length": 13
+      },
+      "9": {
+        "length": 21
+      },
+      "10": {
+        "length": 11
+      },
+      "11": {
+        "length": 19
+      },
+      "12": {
+        "length": 17
+      },
+      "13": {
+        "length": 18
+      },
+      "14": {
+        "length": 20
+      },
+      "15": {
+        "length": 8
+      },
+      "16": {
+        "length": 21
+      },
+      "17": {
+        "length": 18
+      },
+      "18": {
+        "length": 24
+      },
+      "19": {
+        "length": 21
+      },
+      "20": {
+        "length": 15
+      },
+      "21": {
+        "length": 27
+      },
+      "22": {
+        "length": 21
+      },
+      "length": 22,
+      "index": 65,
+      "section": "Apocalypse",
+      "testament": "New Testament"
+    }
+}
