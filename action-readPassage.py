@@ -260,7 +260,7 @@ def readPassage_callback(hermes, intentMessage):
 	hermes.publish_end_session(intentMessage.session_id, message)
 
 if __name__=="__main__":
-	with open('bible-index2.json') as data:
+	with open('bible-index.json') as data:
 		bibleIndex = json.load(data)
 	cxtFileName = "context.json"
 	initContext(cxtFileName)
